@@ -1,4 +1,5 @@
 # frontend
+终极简洁的RBAC模板，只做RBAC
 
 This template should help get you started developing with Vue 3 in Vite.
 
