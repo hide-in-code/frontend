@@ -1,5 +1,5 @@
 # frontend
-终极简洁的RBAC模板，只做RBAC
+终极简洁的RBAC模板，只做rbac，路由守卫，pinia状态管理，对接后端部分可以自由发挥
 
 This template should help get you started developing with Vue 3 in Vite.
 
